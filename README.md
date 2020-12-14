@@ -14,4 +14,4 @@ public class Test{
 }
 //I am done let me see if this will commit
 ```
-<Strong>If you are see this then it has Successfully Commited! :)</Strong>
+<Strong>If you are see this then it has Successfully Commited and Pushed!</Strong> :)
